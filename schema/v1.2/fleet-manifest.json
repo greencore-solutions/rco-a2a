@@ -61,6 +61,6 @@
   "rule": "the two counts are reported separately and both enter the number set of record"
  },
  "growth_rule": "a prefab slot becomes record-holding only by a superseding registry record when a real signed RCO exists for a real pair — never by editing the slot in place; exhausted blocks grow only by CEO order; slots are never deleted, a retired pairing is superseded and retained",
- "addressing": "each slot is a real hostname: <slot>.rco-a2a-bpc.ai / <slot>.rco-a2a-cpg.ai (wildcard DNS + host-routed origin); cards at /.well-known/agent-card.json per slot host",
+ "addressing": "AS BUILT (2026-08-29, per the build order's slot ranges): slot agents are path agents under their rail root - card at https://<rail>/<slot>/.well-known/agent-card.json, receiver at https://<rail>/<slot>/a2a - the estate's fleet-root pattern; the v1.2 wildcard-hostname line was superseded by the build order's deployed shape",
  "forwarding_batch": "rco-a2a.com/.org and rcoa2a.ai → rco-a2a.ai; rco-a2a.io serves as the machine twin; rails' .com/.org/.io → their .ai; rco-10060.ai and the regulatorycomplianceobject/regulatory-compliance-object names → rco-10060.org — registrar-of-record table attached at build (verify-at-build, defect row 37)"
 }
