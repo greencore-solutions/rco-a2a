@@ -3,7 +3,7 @@
   "name": "io.github.greencore-solutions/rco-a2a",
   "title": "RCO-A2A - Regulatory Compliance Objects",
   "description": "Signed, deterministic compliance state per object per jurisdiction, resolved upstream. Four read tools, no auth.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://rco-a2a.ai",
   "repository": {
     "url": "https://github.com/greencore-solutions/rco-a2a",
